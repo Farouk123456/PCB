@@ -2,4 +2,5 @@
 
 ## CPULess Multiplexed LED Matrix 
 
-When the board powers on a crystall oscillator is used to make bit shifter create the right signals to address each led then a part of the pcb is dedicated to give each led an apropiate value
+When the board powers on a crystall oscillator is used to alognside a counter und demultiplexers to address each led so fast that the human eye blurs it all together
+to make one whole image. An EEPROM is programmed with several frames of an arbitrary animation thats then displayed on the matrix
