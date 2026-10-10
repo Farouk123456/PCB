@@ -17,3 +17,11 @@ I needed 2 binary counter ICs, one to make the crystal clock, as it seems like a
 
 Designed the PCB and added a voltage regulator to turn 5V into 3.3V and made sure the traces could handle the current of the LEDs.
 The only thing left is to write some code to program the EEPROM/example image dump of an EEPROM, and maybe if I figure it out, simulate the PCB to find errors that I've missed
+
+9 October After Sleeping: Disaster
+
+Realized I hadn't checked the current of the LEDs I used (they were too high) -> had to replace all LEDs and transistors because their current rating was wrong, meaning all the work I did yesterday was useless, and I have to do it all over again. This time I'm going to meticulously check each component for such things my LEDs might need resistors now.
+
+added 15 ohm resistors per row because (3.3V - 3V) / 0.02 = 15 Ohm
+
+Designed almost 50% of the PCB and made 15h reel
