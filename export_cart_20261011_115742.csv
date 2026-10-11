@@ -1,0 +1,26 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C3356784,MFR-12FTF52-10K,YAGEO,"Through Hole,D1.9xL3.4mm",,"10kΩ 167mW Metal Film Resistor ±100ppm/℃ ±1% Through Hole,D1.9xL3.4mm Through Hole Resistors RoHS",yes,100,50,50,0.0113,1.13,https://www.lcsc.com/product-detail/C3356784.html
+2,C52121519,HG74HC595N,HGSEMI,DIP-16,,"3.2V~5.5V 35mA 100ns@5V,50pF Serial-to-Parallel DIP-16 Shift Registers ",yes,5,5,5,0.1336,0.67,https://www.lcsc.com/product-detail/C52121519.html
+3,C907564,CD02K032768ACNBAEAE,TKD,DT-38,,"12.5pF ±10ppm DT-38 Crystals ",yes,10,10,10,0.0602,0.60,https://www.lcsc.com/product-detail/C907564.html
+4,C544820,LM3940IMPX-3.3/NOPB,TI,SOT-223-4,,Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223-4,yes,1,1,1,1.5028,1.50,https://www.lcsc.com/product-detail/C544820.html
+5,C1348752,AT28C256-15PU,MICROCHIP,PDIP-28,,256Kbit Parallel Port (Parallel) PDIP-28 Memory RoHS,yes,1,1,1,19.4572,19.46,https://www.lcsc.com/product-detail/C1348752.html
+6,C2652997,SN74HC590ADR,TI,SOIC-16,,"Rising Edge 1 24MHz SOIC-16 Counters, Dividers RoHS",yes,1,1,1,0.8522,0.85,https://www.lcsc.com/product-detail/C2652997.html
+7,C548810,74LVC541AD-Q100J,Nexperia,SO-20-300mil,,"Schmitt trigger 1.65V~3.6V 8 1 2.9ns@3.3V,50pF SO-20-300mil Buffers, Drivers, Receivers, Transceivers RoHS",yes,2,1,1,1.0705,2.14,https://www.lcsc.com/product-detail/C548810.html
+8,C134017,CD74HC4060M96,TI,SOIC-16,,"Falling Edge 1 35MHz SOIC-16 Counters, Dividers RoHS",yes,1,1,1,0.4685,0.47,https://www.lcsc.com/product-detail/C134017.html
+9,C50202050,XL74HC4514D,XINLUDA,SOP-24,,"4/16 2V~6V 80uA 49ns@6.0V,50pF SOP-24 Signal Switches, Multiplexers, Decoders ",yes,5,5,5,0.3097,1.55,https://www.lcsc.com/product-detail/C50202050.html
+10,C99987,EI-04,Diptronics,"Through Hole,P=2.54mm",,"Dip Switch SPST 4 Position Slide, Rocked",yes,1,1,1,0.5224,0.52,https://www.lcsc.com/product-detail/C99987.html
+11,C20611863,MF0204FTE52-2K2,YAGEO,"Through Hole,D1.9xL3.4mm",,"2.2kΩ 400mW Metal Film Resistor ±50ppm/℃ ±1% Through Hole,D1.9xL3.4mm Through Hole Resistors ",yes,50,50,50,0.0115,0.58,https://www.lcsc.com/product-detail/C20611863.html
+12,C3000673,FRC2512F1004TS,FOJAN,2512,,1MΩ ±1% 1W 2512 Thick Film Resistor,yes,20,20,20,0.0324,0.65,https://www.lcsc.com/product-detail/C3000673.html
+13,C119285,MF1/4W-15Ω±1% T,CCO(Chian Chia Elec),"Through Hole,D2.3xL6.5mm",,"15Ω 250mW 250V Metal Film Resistor ±100ppm/℃ ±1% Through Hole,D2.3xL6.5mm Through Hole Resistors RoHS",yes,50,50,50,0.0109,0.55,https://www.lcsc.com/product-detail/C119285.html
+14,C49270298,CSA0805C0G103J500MT,HRE,0805,,"10nF C0G ±5% 50V 0805 Ceramic Capacitors ",yes,20,20,20,0.0312,0.62,https://www.lcsc.com/product-detail/C49270298.html
+15,C2910414,2N7000-TA,JSCJ,TO-92,,N-Channel 60V 0.2A 0.625W Through Hole TO-92,yes,20,20,20,0.0451,0.90,https://www.lcsc.com/product-detail/C2910414.html
+16,C21713833,AO3401CI-ES,ElecSuper,SOT-23,,P-Channel 20V 2.3A 1.4W Surface Mount SOT-23,yes,50,50,50,0.0191,0.96,https://www.lcsc.com/product-detail/C21713833.html
+17,C54839582,IRLZ44NPBF-MNS,Minos,TO-220,,"100W 60V 50A 15mΩ@10V 1 N-channel N-Channel TO-220 Single FETs, MOSFETs ",yes,20,5,5,0.3046,6.09,https://www.lcsc.com/product-detail/C54839582.html
+18,C131211,42-21A/GHC-YX1Y2N/1T,EVERLIGHT,"SMD,3.2x2.4mm",,"Emerald Green 518nm LED Indication - Discrete SMD,2.4x3.2mm",yes,260,10,10,0.0501,13.03,https://www.lcsc.com/product-detail/C131211.html
+19,C124375,B-2100S02P-A110,Ckmtw,"Through Hole,P=2.54mm",,Pin Header 2 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,yes,20,20,20,0.0300,0.60,https://www.lcsc.com/product-detail/C124375.html
+20,C54557117,5557WRF-1X3P(HDGC4201WR-F-1X3P),HDGC,"Through Hole,Right Angle,P=4.2mm",,"Right Angle 600V 3 1 4.2mm 9A 3P -25℃~+85℃ Tin 1x3P Through Hole,Right Angle,P=4.2mm Headers, Male Pins RoHS",yes,5,5,5,0.1759,0.88,https://www.lcsc.com/product-detail/C54557117.html
+21,C42391526,HX PZ-2005WV-1x10P,hanxia,"Through Hole,P=2mm",,"Through Hole 500V 1 2mm 1.5A Square pin 2mm 3.9mm 10P -40℃~+105℃ Gold 2.8mm Black 1x10P Through Hole,P=2mm Headers, Male Pins RoHS",yes,10,10,10,0.0492,0.49,https://www.lcsc.com/product-detail/C42391526.html
+22,C90019,EI-08-V,Diptronics,"Through Hole,P=2.54mm",,"8 25mA Black SPST 2,000 cycles Slide, Rocked Through Hole,P=2.54mm DIP Switches RoHS",yes,1,1,1,0.8551,0.86,https://www.lcsc.com/product-detail/C90019.html
+23,C216549,ECR1HPT330MLL063011,Nantong Jianghai Capacitor,"Through Hole,D6.3xL11.5mm",,"33uF 50V Aluminum Electrolytic Capacitors Through Hole,D6.3xL11.5mm 2000hrs@85℃",yes,20,20,20,0.0277,0.55,https://www.lcsc.com/product-detail/C216549.html
+24,C45095,kF474M050C05RR0VH2FP0,Chengx,"Through Hole,D4xL5mm",,"±20% 50V 470nF Through Hole,D4xL5mm Aluminum Electrolytic Capacitors RoHS",yes,50,50,50,0.0096,0.48,https://www.lcsc.com/product-detail/C45095.html
+25,C3838790,600F330JT250XT,Kyocera AVX,0805,,33pF C0G ±5% 250V 0805 Ceramic Capacitors RoHS,yes,2,1,1,0.2620,0.52,https://www.lcsc.com/product-detail/C3838790.html
