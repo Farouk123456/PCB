@@ -39,3 +39,7 @@ Need 2 74HC595 to programm EEPROM with what i have
 My outline for the programmer App:
 
 Python scans folder for numbered BMP images gray scales them and then sets bit value based on brightness to on or off and Dumps a output.bin file to be programmed onto the EEPROM
+
+11 October
+
+Had to replace some passive components and the EEPROM because they were out of stock

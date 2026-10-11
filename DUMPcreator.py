@@ -59,7 +59,7 @@ images = getImages()
 
 img_number = len(images)
 
-rom_size = 32768 # number adresses
+rom_size = 32768 // 4 # number adresses
 
 data = [0] * rom_size   # Preallocate the data, all zeros
 
