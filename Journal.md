@@ -43,3 +43,4 @@ Python scans folder for numbered BMP images gray scales them and then sets bit v
 11 October
 
 Had to replace some passive components and the EEPROM because they were out of stock
+Figuring out BOM and MOQ headaches
