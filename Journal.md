@@ -25,3 +25,13 @@ Realized I hadn't checked the current of the LEDs I used (they were too high) ->
 added 15 ohm resistors per row because (3.3V - 3V) / 0.02 = 15 Ohm
 
 Designed almost 50% of the PCB and made 15h reel
+
+10 October 
+
+Finished PCB wiring had to relocate Regulator region to make routing easier
+Realized (using AI) that 74HC154 inverts the signal of the demultiplexers so i need to use smth else 
+Found some routing mistakes and swaps
+Also AI pointed out that my 15 ohm resistor placement is wrong and that the buffer ic cant directly drive the led's so ill also need to fix that
+Fixed It now i hope im done with the hard work whats left is to write a programm to return an image to be uploaded to the eeprom using an arduino or a programmer
+
+Acctually AI found that i reversed the polartity of a capacitor and that i need to use puulup resistors for my p channels mossfets because controlling the output using the enable pin allows the gate to be floating but im sure there shouldnt be any more issues
