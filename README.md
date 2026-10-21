@@ -4,6 +4,7 @@
 
 ![PCB Model Image](imgs/pcbImg.png)
 
+![PCB Image](imgs/pcb.png)
 
 ### What is it ?
 
