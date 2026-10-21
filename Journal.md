@@ -1,22 +1,27 @@
-7 October
+# 7 October
 
-1 AM: Just got back from a student party; let's get to work.
+## 1 AM: Just got back from a student party; let's get to work.
 
-3:20 AM: Made a schematic for the LED matrix and column multiplexer; still have to figure out how to address the rows and how to give the LEDs values that create nice patterns
+I started by making a basic schematic for the LED matrix grid. The main goal was to establish the structure of the display and figure out how to represent all the LEDs in the schematic without making the circuit unnecessarily complicated or difficult to address.
 
-8 October
+## 3:20 AM: Made a schematic for the LED matrix and column multiplexer
+still have to figure out how to address the rows and how to give the LEDs values that create nice patterns
+
+At this point i used demultiplexer IC's and a binary counter IC to multiplex a column of 16 pixels i originally wanted to make an analogue or digital cuircuit the asssigns the LEDs a value based on random parameters like temperature or pressure and of course time
+
+# 8 October
 
 In this session, I actually figured out how I wanted this matrix to work, which is using an EEPROM that stores arbitrary images that you can switch to using dip switches
 I had to get creative to make it work since a row of the 16x16 matrix doesn't fit cleanly into the 8 bits that get stored per address on the EEPROM, so I had to split the display in half using 2 buffer ICs and display only one half each clock cycle
 
 I needed 2 binary counter ICs, one to make the crystal clock, as it seems like a clean way to accomplish that because it leaves signals for future control, like if I wanted to make the images switch automatically, I could use the unused 1 Hz and bigger signals to address the eeprom!
 
-9 October
+# 9 October
 
 Designed the PCB and added a voltage regulator to turn 5V into 3.3V and made sure the traces could handle the current of the LEDs.
 The only thing left is to write some code to program the EEPROM/example image dump of an EEPROM, and maybe if I figure it out, simulate the PCB to find errors that I've missed
 
-9 October After Sleeping: Disaster
+## 9 October After Sleeping: Disaster
 
 Realized I hadn't checked the current of the LEDs I used (they were too high) -> had to replace all LEDs and transistors because their current rating was wrong, meaning all the work I did yesterday was useless, and I have to do it all over again. This time I'm going to meticulously check each component for such things as my LEDs might need resistors now.
 
@@ -24,7 +29,7 @@ Added 15 ohm resistors per row because (3.3V - 3V) / 0.02 = 15 Ohm
 
 Designed almost 50% of the PCB and made 15h reel
 
-10 October 
+# 10 October 
 
 Finished PCB wiring had to relocate the regulator region to make routing easier
 Realized (using AI) that 74HC154 inverts the signal of the demultiplexers, so I need to use something else. 
@@ -40,7 +45,7 @@ My outline for the programmer App:
 
 Python scans folder for numbered BMP images gray scales them and then sets bit value based on brightness to on or off and Dumps a output.bin file to be programmed onto the EEPROM
 
-11 October
+# 11 October
 
 Had to replace some passive components and the EEPROM because they were out of stock
 Figuring out BOM and MOQ headaches
