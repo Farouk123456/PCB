@@ -45,30 +45,30 @@ The 12 DIP switches allow one to select one of 4096 possible images to be displa
 
 ## Bill of Materials
 
-| ID | Name                 | Footprint                          | Quantity | Manufacturer Part               | Supplier | Supplier Part | Price  |
-|----|----------------------|------------------------------------|----------|---------------------------------|----------|---------------|--------|
-| 1  | IRLZ44NPBF-MNS       | TO-220-3_L10.0-W4.5-P2.54-L        | 16       | IRLZ44NPBF-MNS                  | LCSC     | [C54839582](https://lcsc.com/product-detail/C54839582.html)     | 0.305  |
-| 2  | AO3401CI-ES          | SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR  | 16       | AO3401CI-ES                     | LCSC     | [C21713833](https://lcsc.com/product-detail/C21713833.html)     | 0.019  |
-| 3  | 2N7000-TA            | TO-92-3_L4.5-W3.5-P1.27-L          | 1        | 2N7000-TA                       | LCSC     | [C2910414](https://lcsc.com/product-detail/C2910414.html)      | 0.045  |
-| 4  | XL74HC4514D          | SOP-24_L15.3-W7.6-LS10.3-P1.27-BL  | 1        | XL74HC4514D                     | LCSC     | [C50202050](https://lcsc.com/product-detail/C50202050.html)     | 0.31   |
-| 5  | 10nF                 | C0805                              | 1        | CSA0805C0G103J500MT             | LCSC     | [C49270298](https://lcsc.com/product-detail/C49270298.html)     | 0.031  |
-| 6  | DIP switchEI-08      | SW-TH_16P-L20.5-W6.0-P2.54         | 1        | EI-08-V                         | LCSC     | [C90019](https://lcsc.com/product-detail/C90019.html)        | 0.855  |
-| 7  | HDR-M-2.54_1x10      | HDR-M-2.54_1X10                    | 1        | HX PZ-2005WV-1x10P              | LCSC     | [C42391526](https://lcsc.com/product-detail/C42391526.html)     | 0.062  |
-| 8  | HDR-M-2.54_1x3       | HDR-M-2.54_1X3                     | 1        | 5557WRF-1X3P(HDGC4201WR-F-1X3P) | LCSC     | [C54557117](https://lcsc.com/product-detail/C54557117.html)     | 0.176  |
-| 9  | HDR-M-2.54_1x2       | HDR-M-2.54_1X2                     | 1        |                                 | LCSC     | [C124375](https://lcsc.com/product-detail/C124375.html)       | 0.03   |
-| 10 | 42-21A/GHC-YX1Y2N/1T | LED-SMD_L3.2-W2.4-R_GREEN          | 256      | 42-21A/GHC-YX1Y2N/1T            | LCSC     | [C131211](https://lcsc.com/product-detail/C131211.html)       | 0.064  |
-| 11 | 10k                  | R0603                              | 51       | MFR-12FTF52-10K                 | LCSC     | [C3356784](https://lcsc.com/product-detail/C3356784.html)      | 0.011  |
-| 12 | DIP switchEI-04      | SW-TH_DIPSWITCHEI-04               | 1        | 拨码开关EI-04                   | LCSC     | [C99987](https://lcsc.com/product-detail/C99987.html)        | 0.522  |
-| 13 | CD74HC4060M96        | SOIC-16_L10.8-W4.5-P1.27-LS6.8-BL  | 1        | CD74HC4060M96                   | LCSC     | [C134017](https://lcsc.com/product-detail/C134017.html)       | 0.469  |
-| 14 | 74LVC541AD-Q100J     | SO-20_L12.8-W7.5-P1.27-LS10.3-BL   | 2        | 74LVC541AD-Q100J                | LCSC     | [C548810](https://lcsc.com/product-detail/C548810.html)       | 1.071  |
-| 15 | SN74HC590ADR         | SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL   | 1        | SN74HC590ADR                    | LCSC     | [C2652997](https://lcsc.com/product-detail/C2652997.html)      | 0.852  |
-| 16 | LM3940IMPX-3.3/NOPB  | SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR | 1        | LM3940IMPX-3.3/NOPB             | LCSC     | [C544820](https://lcsc.com/product-detail/C544820.html)       | 1.503  |
-| 17 | 32.768kHz            | DT-38_BD3.1-P1.1                   | 1        | CD02K032768ACNBAEAE             | LCSC     | [C907564](https://lcsc.com/product-detail/C907564.html)       | 0.06   |
-| 18 | 15Ω                  | RES-TH_BD2.3-L6.5-P10.50-D0.5      | 16       | MF1/4W-15Ω±1% T                 | LCSC     | [C119285](https://lcsc.com/product-detail/C119285.html)       | 0.011  |
-| 19 | 1M                   | R0603                              | 1        | FRC2512F1004TS                  | LCSC     | [C3000673](https://lcsc.com/product-detail/C3000673.html)      | 0.034  |
-| 20 | 33pF                 | CAP-TH_L3.8-W2.5-P2.54-D0.5        | 2        | C315C330J2G5TA                  | LCSC     | [C1620398](https://lcsc.com/product-detail/C1620398.html)      | 0.199  |
-| 21 | 470nF                | CAP-TH_BD4.0-P1.50-D0.8-FD         | 1        | KS474M050C07RR0VH2FP0           | LCSC     | [C45094](https://lcsc.com/product-detail/C45094.html)        | 0.014  |
-| 22 | 33uF                 | CAP-TH_BD5.0-P2.00-D0.8-FD         | 1        | 35YXF33MEFC5X11                 | LCSC     | [C88830](https://lcsc.com/product-detail/C88830.html)        | 0.08   |
-| 23 | AT28C64B-15PU        | DIP-28_L37.0-W13.8-P2.54-LS15.8-BL | 1        | AT28C64B-15PU                   | LCSC     | [C41982](https://lcsc.com/product-detail/C41982.html)        | 13.732 |
-| 24 | 2.2k                 | R0603                              | 1        | MF0204FTE52-2K2                 | LCSC     | [C20611863](https://lcsc.com/product-detail/C20611863.html)     | 0.016  |
-| 25 | 10uF                 | CAP-TH_BD5.0-P2.00-D0.8-FD         | 1        | 50YXF10MEFC5X11                 | LCSC     | [C88726](https://lcsc.com/product-detail/C88726.html)        | 0.053  |
+| ID | Name                 | Quantity | Manufacturer Part               | Supplier | Supplier Part | Price  |
+|----|----------------------|----------|---------------------------------|----------|---------------|--------|
+| 1  | IRLZ44NPBF-MNS       | 16       | IRLZ44NPBF-MNS                  | LCSC     | [C54839582](https://lcsc.com/product-detail/C54839582.html)     | 0.305  |
+| 2  | AO3401CI-ES          | 16       | AO3401CI-ES                     | LCSC     | [C21713833](https://lcsc.com/product-detail/C21713833.html)     | 0.019  |
+| 3  | 2N7000-TA            | 1        | 2N7000-TA                       | LCSC     | [C2910414](https://lcsc.com/product-detail/C2910414.html)      | 0.045  |
+| 4  | XL74HC4514D          | 1        | XL74HC4514D                     | LCSC     | [C50202050](https://lcsc.com/product-detail/C50202050.html)     | 0.31   |
+| 5  | 10nF                 | 1        | CSA0805C0G103J500MT             | LCSC     | [C49270298](https://lcsc.com/product-detail/C49270298.html)     | 0.031  |
+| 6  | DIP switchEI-08      | 1        | EI-08-V                         | LCSC     | [C90019](https://lcsc.com/product-detail/C90019.html)        | 0.855  |
+| 7  | HDR-M-2.54_1x10      | 1        | HX PZ-2005WV-1x10P              | LCSC     | [C42391526](https://lcsc.com/product-detail/C42391526.html)     | 0.062  |
+| 8  | HDR-M-2.54_1x3       | 1        | 5557WRF-1X3P(HDGC4201WR-F-1X3P) | LCSC     | [C54557117](https://lcsc.com/product-detail/C54557117.html)     | 0.176  |
+| 9  | HDR-M-2.54_1x2       | 1        |                                 | LCSC     | [C124375](https://lcsc.com/product-detail/C124375.html)       | 0.03   |
+| 10 | 42-21A/GHC-YX1Y2N/1T | 256      | 42-21A/GHC-YX1Y2N/1T            | LCSC     | [C131211](https://lcsc.com/product-detail/C131211.html)       | 0.064  |
+| 11 | 10k                  | 51       | MFR-12FTF52-10K                 | LCSC     | [C3356784](https://lcsc.com/product-detail/C3356784.html)      | 0.011  |
+| 12 | DIP switchEI-04      | 1        | 拨码开关EI-04                   | LCSC     | [C99987](https://lcsc.com/product-detail/C99987.html)        | 0.522  |
+| 13 | CD74HC4060M96        | 1        | CD74HC4060M96                   | LCSC     | [C134017](https://lcsc.com/product-detail/C134017.html)       | 0.469  |
+| 14 | 74LVC541AD-Q100J     | 2        | 74LVC541AD-Q100J                | LCSC     | [C548810](https://lcsc.com/product-detail/C548810.html)       | 1.071  |
+| 15 | SN74HC590ADR         | 1        | SN74HC590ADR                    | LCSC     | [C2652997](https://lcsc.com/product-detail/C2652997.html)      | 0.852  |
+| 16 | LM3940IMPX-3.3/NOPB  | 1        | LM3940IMPX-3.3/NOPB             | LCSC     | [C544820](https://lcsc.com/product-detail/C544820.html)       | 1.503  |
+| 17 | 32.768kHz            | 1        | CD02K032768ACNBAEAE             | LCSC     | [C907564](https://lcsc.com/product-detail/C907564.html)       | 0.06   |
+| 18 | 15Ω                  | 16       | MF1/4W-15Ω±1% T                 | LCSC     | [C119285](https://lcsc.com/product-detail/C119285.html)       | 0.011  |
+| 19 | 1M                   | 1        | FRC2512F1004TS                  | LCSC     | [C3000673](https://lcsc.com/product-detail/C3000673.html)      | 0.034  |
+| 20 | 33pF                 | 2        | C315C330J2G5TA                  | LCSC     | [C1620398](https://lcsc.com/product-detail/C1620398.html)      | 0.199  |
+| 21 | 470nF                | 1        | KS474M050C07RR0VH2FP0           | LCSC     | [C45094](https://lcsc.com/product-detail/C45094.html)        | 0.014  |
+| 22 | 33uF                 | 1        | 35YXF33MEFC5X11                 | LCSC     | [C88830](https://lcsc.com/product-detail/C88830.html)        | 0.08   |
+| 23 | AT28C64B-15PU        | 1        | AT28C64B-15PU                   | LCSC     | [C41982](https://lcsc.com/product-detail/C41982.html)        | 13.732 |
+| 24 | 2.2k                 | 1        | MF0204FTE52-2K2                 | LCSC     | [C20611863](https://lcsc.com/product-detail/C20611863.html)     | 0.016  |
+| 25 | 10uF                 | 1        | 50YXF10MEFC5X11                 | LCSC     | [C88726](https://lcsc.com/product-detail/C88726.html)        | 0.053  |
